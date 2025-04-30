@@ -1,3 +1,6 @@
+### name : chandru v
+### reg no : 212224230043
+### Ex no : 12
 # 4-BIT-RIPPLE-COUNTER
 
 **AIM:**
@@ -28,13 +31,22 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **PROGRAM**
 
+![image](https://github.com/user-attachments/assets/cfa33a9f-c231-4c0e-8555-d3f43ecf9233)
+
+
 /* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
 
- Developed by: RegisterNumber:
+ Developed by:chandru v RegisterNumber:212224230043
 */
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 
+![image](https://github.com/user-attachments/assets/ac642637-ca0b-49e0-b531-e9d66f2dbe6c)
+
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 
+![image](https://github.com/user-attachments/assets/07c96743-d72a-41bc-80ec-7a9503cfe8d7)
+
 **RESULTS**
+
+thus the 4 Bit Ripple Counterhas been implemented using verilog andtheir functionality has been validated using their functional tables.
